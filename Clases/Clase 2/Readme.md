@@ -5,5 +5,5 @@ Esta clase aborda los conceptos basicos de la programacion, viendo:
 - Operadores (Python)
 - Funciones basicas
     - print(), input(), f-strings
-- Condicionales basicos
+- Condicionales
     - if, else, else if
