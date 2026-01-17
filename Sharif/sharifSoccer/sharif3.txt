@@ -1,0 +1,26 @@
+JUGADORES
+Esteban Paredes|Delantero|7|Chile
+Gabriel Suazo|Lateral|17|Chile
+Juan Martín Lucero|Delantero|9|Argentina
+Leonardo Gil|Mediocampista|5|Argentina
+Brayan Cortés|Arquero|1|Chile
+Gabriel Costa|Delantero|8|Perú
+FIN JUGADORES
+GOLES
+Esteban Paredes,12,Universidad de Chile,2022-03-15
+Esteban Paredes,45,Universidad de Chile,2022-03-15
+Gabriel Suazo,30,Universidad Católica,2022-05-01
+Juan Martín Lucero,22,Universidad Católica,2022-05-01
+Leonardo Gil,78,O'Higgins,2022-06-10
+Esteban Paredes,12,Universidad de Chile,2022-03-15
+Esteban Paredes,45,Universidad de Chile,2022-03-15
+Gabriel Costa,12,Audax Italiano,2022-04-20
+Gabriel Costa,45,Audax Italiano,2022-04-20
+Leonardo Gil,22,O'Higgins,2022-06-10
+Gabriel Suazo,22,Universidad Católica,2022-05-01
+Juan Martín Lucero,45,Universidad Católica,2022-05-01
+Esteban Paredes,30,La Serena,2022-07-15
+Gabriel Costa,30,La Serena,2022-07-15
+Esteban Paredes,78,Universidad de Chile,2022-09-02
+Leonardo Gil,78,Cobresal,2022-08-18
+FIN GOLES

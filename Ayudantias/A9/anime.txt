@@ -1,0 +1,80 @@
+Chile,Dragon Ball,18783
+Chile,Black Clover,46354
+Chile,Jujutsu Kaisen,16119
+Chile,Demon Slayer,32539
+Chile,Nanatsu no Taizai,26547
+Chile,Hajime no Ippo,49626
+Chile,Baki,22098
+Chile,My Hero Academia,46518
+Argentina,Dragon Ball,17806
+Argentina,Black Clover,33436
+Argentina,Jujutsu Kaisen,28425
+Argentina,Demon Slayer,25294
+Argentina,Nanatsu no Taizai,42142
+Argentina,Hajime no Ippo,29299
+Argentina,Baki,28117
+Argentina,My Hero Academia,45471
+Japón,Dragon Ball,32885
+Japón,Black Clover,36025
+Japón,Jujutsu Kaisen,35252
+Japón,Demon Slayer,29787
+Japón,Nanatsu no Taizai,37108
+Japón,Hajime no Ippo,32250
+Japón,Baki,12637
+Japón,My Hero Academia,1130
+Brasil,Dragon Ball,14805
+Brasil,Black Clover,37673
+Brasil,Jujutsu Kaisen,43275
+Brasil,Demon Slayer,2730
+Brasil,Nanatsu no Taizai,18352
+Brasil,Hajime no Ippo,16715
+Brasil,Baki,32771
+Brasil,My Hero Academia,35956
+Ecuador,Dragon Ball,14442
+Ecuador,Black Clover,12521
+Ecuador,Jujutsu Kaisen,11972
+Ecuador,Demon Slayer,29113
+Ecuador,Nanatsu no Taizai,6440
+Ecuador,Hajime no Ippo,1626
+Ecuador,Baki,17466
+Ecuador,My Hero Academia,20029
+España,Dragon Ball,11189
+España,Black Clover,43107
+España,Jujutsu Kaisen,47602
+España,Demon Slayer,11193
+España,Nanatsu no Taizai,24449
+España,Hajime no Ippo,45459
+España,Baki,49008
+España,My Hero Academia,8235
+Bolivia,Dragon Ball,2055
+Bolivia,Black Clover,29141
+Bolivia,Jujutsu Kaisen,36464
+Bolivia,Demon Slayer,20493
+Bolivia,Nanatsu no Taizai,2344
+Bolivia,Hajime no Ippo,7410
+Bolivia,Baki,49866
+Bolivia,My Hero Academia,22447
+Uruguay,Dragon Ball,31548
+Uruguay,Black Clover,27046
+Uruguay,Jujutsu Kaisen,44975
+Uruguay,Demon Slayer,21006
+Uruguay,Nanatsu no Taizai,18660
+Uruguay,Hajime no Ippo,14752
+Uruguay,Baki,29264
+Uruguay,My Hero Academia,15819
+Perú,Dragon Ball,13505
+Perú,Black Clover,32996
+Perú,Jujutsu Kaisen,33054
+Perú,Demon Slayer,49922
+Perú,Nanatsu no Taizai,3572
+Perú,Hajime no Ippo,42300
+Perú,Baki,8218
+Perú,My Hero Academia,19910
+Australia,Dragon Ball,1245
+Australia,Black Clover,24707
+Australia,Jujutsu Kaisen,23602
+Australia,Demon Slayer,47306
+Australia,Nanatsu no Taizai,39300
+Australia,Hajime no Ippo,29250
+Australia,Baki,9299
+Australia,My Hero Academia,2457

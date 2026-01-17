@@ -1,0 +1,67 @@
+Tetris,retro,3
+Maria; 35; media de puntaje; 1010560
+Ramon; 200; media de puntaje; 981056
+Lorenzo; 14; media de puntaje; 1207640
+---------------------------------------------------------
+PUBG,battle royale,5
+Pilar; 17; posición; 2
+Fernando; 21; posición; 3
+Ruben; 15; posición; 2
+Rita; 19; posición; 1
+Francisco; 18; posición; 1
+---------------------------------------------------------
+Mario kart,racing,4
+Mario; 25; posición; 1
+Samuel; 20; posición; 3
+Federico; 16; posición; 2
+Mia; 19; posición; 2
+---------------------------------------------------------
+Overwatch,first person shooter,6
+Eloi; 18; kills; 23
+Enric; 21; kills; 17
+Juan; 16; kills; 24
+Christian; 19; kills; 19
+Antonio; 19; kills; 30
+Ángel; 2; kills; 21
+---------------------------------------------------------
+Street fighter,retro,2
+Álvaro; 28; wins; 7
+Susana; 38; wins; 10
+---------------------------------------------------------
+Fortnite,battle royale,5
+Antonia; 17; posición; 3
+Carlos; 21; posición; 2
+Nicolás; 16; posición; 3
+Fernanda; 13; posición; 1
+Dylan; 18; posición; 1
+---------------------------------------------------------
+Valorant,first person shooter,4
+Hugo; 18; kills; 57
+Mateo; 21; kills; 68
+Daniel; 16; kils; 91
+Alejandro; 19; kills; 75
+--------------------------------------------------------
+FIFA,soccer,3
+Álex; 14; goles; 14
+Javier; 17; goles; 21
+Bruno; 211; goles; 17
+--------------------------------------------------------
+Counter strike 2,first person shooter,4
+Manuel; 19; kills; 29
+Pablo; 27; kills; 18
+Enzo; 20; kils; 30
+Diego; 19; kills; 25
+--------------------------------------------------------
+Rocket league,soccer,4
+Enzo; 17; goles; 16
+Adrián; 15; goles; 21
+Marco; 18; goles; 18
+Miguel; 21; goles; 24
+--------------------------------------------------------
+Call of duty,first person shooter,5
+Eloi; 18; kills; 23
+Enric; 21; kills; 17
+Juan; 16; kils; 24
+Christian; 19; kills; 19
+Ignacio; 18; kills; 29
+--------------------------------------------------------

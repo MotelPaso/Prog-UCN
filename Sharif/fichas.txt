@@ -1,0 +1,5 @@
+2,5
+20
+A,B,C,D,a,b,c,d,C,C,C,C,C
+6
+A,B,A,C,B,D

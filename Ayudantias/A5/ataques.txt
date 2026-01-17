@@ -1,0 +1,24 @@
+América;3
+Chile, 2, Phishing, 40, DDoS, 80
+Argentina, 3, Malware, 70, Phishing, 50, Ransomware, 60
+Brasil, 1, DDoS, 95
+Europa;5
+España, 5, Spyware, 100, Malware, 80, DDoS, 40, Ransomware, 50, Adware, 60
+Italia, 2, Spyware, 20, Adware, 50
+Dinamarca, 1, Phishing, 60
+Alemania, 3, Phishing, 60, Ransomware, 70, Malware, 80
+Francia, 2, SQLInjection, 40, Phishing, 35
+Asia;3
+Japón, 2, Malware, 75, DDoS, 85
+Corea Del Sur, 1, Ransomware, 65
+India, 2, Phishing, 55, SQLInjection, 45
+África;4
+Sudáfrica, 1, DDoS, 75
+Egipto, 1, DDoS, 85
+Nigeria, 3, Spyware, 80, SQLInjection, 95, Adware, 70
+Kenia, 2, Malware, 65, Phishing, 60
+Oceanía;4
+Australia, 3, DDoS, 75, Ransomware, 80, Spyware, 65
+Nueva Zelanda, 1, Phishing, 70
+Vanuatu, 1, Spyware, 100
+Fiyi, 1, DDoS, 50

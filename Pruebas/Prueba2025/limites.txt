@@ -1,0 +1,10 @@
+Ñuñoa,180
+La Reina,100
+Providencia,145
+Maipú,180
+Puente Alto,170
+Las Condes,160
+San Bernardo,160
+Recoleta,135
+Renca,120
+Pudahuel,170

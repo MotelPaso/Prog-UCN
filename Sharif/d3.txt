@@ -1,0 +1,11 @@
+-,derecha,hola,+,izquierda,adios
+holaa-1-hola-10-ucn-22-adios
+/,centro,*,izquierda,<- acá
+palabra/77/otra  palabra/23/<- acá/66/00
+?,extremos,-
+55?palabras de relleno?13?más palabras?si?70
+%,inicio,/,derecha,hawaii
+81%right%81%hawaii%100%si
+$,inicio,mayor,final
+14$24$5345$56456$50
+se acabó

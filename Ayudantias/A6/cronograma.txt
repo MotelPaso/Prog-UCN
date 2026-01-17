@@ -1,0 +1,31 @@
+BBBA26,Joaquin Farías,Federico Mondaca,21:30,Santiago
+CDZK91,Camila Torres,Pedro Lagos,08:15,Viña del Mar
+FGHT10,Ignacio Rojas,Martina Sepúlveda,12:00,Valparaíso
+HHLK45,Valentina Ruiz,Esteban Pino,17:45,Santiago
+JKUW83,Matías Fuentes,Javiera Olivares,06:30,Calama
+LLOO22,Diego Herrera,Catalina Morales,14:20,Iquique
+MNPQ11,Francisca Vidal,Gonzalo Tapia,19:10,Viña del Mar
+QRST88,Sebastián Vera,Daniela Lagos,10:00,Santiago
+UVWX77,Laura Paredes,Ricardo Gómez,15:45,Viña del Mar
+YZAB66,Tomas Castillo,Sofía Araya,13:30,Valparaíso
+ACDE55,Alejandra Mena,Nicolás Espinoza,07:15,Antofagasta
+FGGH44,Andrés Godoy,Josefa Rivas,11:25,Calama
+HIIJ33,Isidora Campos,Cristóbal León,16:00,Iquique
+KLLM22,Carlos Navarro,Ana Vergara,18:40,Valparaíso
+NOOP11,Paula Díaz,Manuel Salinas,09:30,Santiago
+PQQR99,Claudio Soto,Valeria Peña,20:15,Viña del Mar
+RSST88,Macarena Orellana,Diego Sáez,13:50,Valparaíso
+TUUV77,Felipe Contreras,María Aguilera,07:00,Antofagasta
+WXXY66,Daniel Ramírez,Carla Jara,12:45,Calama
+YZZA55,Pablo Gutiérrez,Loreto Reyes,18:00,Iquique
+ABBC44,Bárbara Fuenzalida,Emilio Núñez,14:10,Concepción
+CDDE33,Jorge Pizarro,Renata Figueroa,16:30,Santiago
+EFFG22,Natalia Carrasco,Sebastián Rojas,10:50,Viña del Mar
+GHHI11,Bastián Tapia,Marcela Pino,19:25,Valparaíso
+IJJK99,Constanza Molina,Andrés Muñoz,09:10,Antofagasta
+KLLM88,Leonardo Bravo,Florencia Arias,11:55,Viña del Mar
+MNNO77,Romina Lagos,Tomás Gálvez,17:20,Iquique
+OPPQ66,Mauricio Escobar,Camila Figueroa,06:40,Concepción
+QRRS55,Lucía Castillo,Matías Rojas,20:00,Santiago
+STTU44,Pedro Valdés,Natalie Castro,08:30,Viña del Mar
+UVVW33,Ignacia Espina,Felipe Lagos,13:15,Santiago

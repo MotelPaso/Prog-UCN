@@ -1,0 +1,53 @@
+7,5
+Países
+1:Chile
+2:Argentina
+3:Perú
+4:Bolivia
+Fin Países
+Mapa
+3,3,3,4,4
+3,4,4,4,4
+1,1,2,2,2
+1,1,2,2,2
+1,1,2,2,2
+1,1,2,2,2
+1,1,2,2,2
+Fin Mapa
+Tarifas
+Chile,Argentina,500
+Chile,Perú,200
+Chile,Bolivia,100
+Argentina,Perú,250
+Argentina,Bolivia,750
+Perú,Bolivia,200
+Fin Tarifas
+Terreno
+0,0,0,0,0
+3,4,4,4,5
+1,1,2,2,2
+1,0,0,2,2
+1,1,9,2,2
+2,1,9,2,2
+2,1,9,2,2
+Fin Terreno
+Material
+10,10,10,10,10
+10,14,14,44,57
+12,16,22,24,42
+33,33,20,40,40
+99,88,10,50,89
+25,87,96,29,27
+28,77,77,77,14
+Fin Material
+Viaje1,10,4
+Derecha
+Derecha
+Arriba
+Izquierda
+Viaje2,7,2
+Arriba
+Derecha
+Viaje3,5,2
+Arriba
+Derecha

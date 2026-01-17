@@ -1,0 +1,8 @@
+cafe,2000,3
+empanada,3000,3
+chaparrita,2000,1
+agua,1000,3
+galleta,1400,1
+sandwich,4000,2
+muffin,1800,1
+bebida,1400,2

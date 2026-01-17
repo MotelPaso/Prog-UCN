@@ -1,0 +1,10 @@
+3
+Carlos,Ana,3
+Round1,0.5,3,papel,piedra,tijera,papel,papel,piedra
+Round2,0.25,1,piedra,papel
+Round3,0.25,2,tijera,papel,piedra,piedra
+Sofía,Pedro,2
+Round1,0.6,2,papel,piedra,tijera,piedra
+Round2,0.4,1,tijera,papel
+Martín,Lucía,1
+Round1,1.0,3,papel,papel,piedra,tijera,piedra,papel
